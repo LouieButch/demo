@@ -1,0 +1,11 @@
+
+/**
+    全局覆盖 框架element-ui样式
+ */
+.el-menu{
+    border: none;
+}
+
+.scrollbar-only__scrollY .el-scrollbar__wrap{
+    overflow-x: hidden;
+}
